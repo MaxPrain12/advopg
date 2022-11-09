@@ -1,13 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 36 36">
-  <path fill="#000" d="M22.25 4h-8.5a1 1 0 0 0-.96.73l-5.54 19.4a.5.5 0 0 0 .62.62l5.05-1.44a2 2 0 0 0 1.38-1.4l3.22-11.66a.5.5 0 0 1 .96 0l3.22 11.67a2 2 0 0 0 1.38 1.39l5.05 1.44a.5.5 0 0 0 .62-.62l-5.54-19.4a1 1 0 0 0-.96-.73Z"/>
-  <path fill="url(#gradient)" d="M18 28a7.63 7.63 0 0 1-5-2c-1.4 2.1-.35 4.35.6 5.55.14.17.41.07.47-.15.44-1.8 2.93-1.22 2.93.6 0 2.28.87 3.4 1.72 3.81.34.16.59-.2.49-.56-.31-1.05-.29-2.46 1.29-3.25 3-1.5 3.17-4.83 2.5-6-.67.67-2.6 2-5 2Z"/>
-  <defs>
-    <linearGradient id="gradient" x1="16" x2="16" y1="32" y2="24" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#000"/>
-      <stop offset="1" stop-color="#000" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-	<style>
-    @media (prefers-color-scheme:dark){:root{filter:invert(100%)}}
-  </style>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 120 120" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="TextBounds">
+<rect height="58.6357" width="93.7031" x="13.1463" y="30.6599"/>
+</clipPath>
+</defs>
+<clipPath id="ArtboardFrame">
+<rect height="120" width="120" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Capa-1" vectornator:layerName="Capa 1">
+<path d="M0-3.55271e-15L120-3.55271e-15L120 120L0 120L0-3.55271e-15Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none"/>
+<g fill="#000000" opacity="1" stroke="none">
+<path clip-path="url(#TextBounds)" d="M62.8026 75.6599L54.9412 75.6599L51.8162 67.53L37.5096 67.53L34.5555 75.6599L26.8895 75.6599L40.8299 39.8689L48.4715 39.8689L62.8026 75.6599ZM49.4969 61.4997L44.5653 48.2185L39.7313 61.4997L49.4969 61.4997Z"/>
+<path clip-path="url(#TextBounds)" d="M63.6112 39.8689L76.8192 39.8689C79.7977 39.8689 82.0682 40.0968 83.6307 40.5525C85.7303 41.171 87.5288 42.2696 89.0262 43.8484C90.5236 45.4272 91.6629 47.3599 92.4442 49.6467C93.2254 51.9335 93.616 54.7533 93.616 58.1062C93.616 61.0522 93.2498 63.5912 92.5174 65.7234C91.6222 68.3275 90.3446 70.4353 88.6844 72.0466C87.4312 73.2673 85.7384 74.2195 83.6063 74.9031C82.0112 75.4076 79.8791 75.6599 77.2098 75.6599L63.6112 75.6599L63.6112 39.8689ZM70.8377 45.9236L70.8377 69.6296L76.2332 69.6296C78.2515 69.6296 79.7082 69.5157 80.6034 69.2878C81.7752 68.9949 82.7477 68.4984 83.5208 67.7986C84.2939 67.0987 84.9246 65.9472 85.4129 64.344C85.9012 62.7408 86.1453 60.5557 86.1453 57.7888C86.1453 55.0219 85.9012 52.8979 85.4129 51.4167C84.9246 49.9356 84.241 48.78 83.3621 47.9499C82.4832 47.1199 81.3683 46.5583 80.0174 46.2654C79.0083 46.0375 77.0308 45.9236 74.0848 45.9236L70.8377 45.9236Z"/>
+</g>
+<path d="M71.8796 115L5 115L5 5L115 5L115 115L71.8796 115Z" fill="#000000" fill-opacity="0" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10"/>
+</g>
 </svg>
