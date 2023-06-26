@@ -13,16 +13,16 @@ tags:
   - documentation
 ---
 
-For my final course project, I wanted to do something special to demonstrate to my tutors everything I had learned with them, for this I created Shotshare, a multiplatform social network application, consisting of three projects. 
+For my final study project, I decided to embark on the creation of Shotshare, an innovative multi-platform social network application. This project was an opportunity to apply and demonstrate all the skills and knowledge I had acquired throughout my studies.
 
-1. - An ApiRest in [NodeJS](https://nodejs.org/en).
-2. - A FrontEnd of the application made in [ReactJS](https://react.dev/).
-3. - A mobile application made in [Cordova](https://cordova.apache.org/).
+Shotshare is composed of three main components:
 
-The APIRest served as a BackEnd where I stored user information in a relational database [MariaDB](https://mariadb.org/), I also used the [PM2](https://pm2.keymetrics.io/) tool, a redundancy system for my application, to always keep it active. In the BackEnd we stored high and low quality images, depending on the section of the application the user was in, we displayed one or the other. Additionally, this was hosted on a local machine and through [CloudFlare](https://www.cloudflare.com/es-es/) we did a proxy to redirect traffic to the application.
+1. A Rest API developed with [NodeJS](https://nodejs.org/en). This API serves as the BackEnd of the application and stores user information in a relational database using [MariaDB](https://mariadb.org/). Additionally, I implemented [PM2](https://pm2.keymetrics.io/), an advanced production process management system, to ensure that the application is always active.
 
-For the FrontEnd, I used [ReactJS](https://react.dev/), because I had already used it in class, so it was a framework that was already familiar to me. It was composed of Hooks and Classes, as an additional feature I took on the task of implementing a unique functionality that allowed users to publish games within the app, games based on [WebGL](https://en.wikipedia.org/wiki/WebGL).
+2. The application's FrontEnd was developed using [ReactJS](https://react.dev/). I chose this framework due to my familiarity with it through its use in my studies. I leveraged its potential to create a feature-rich interface, which includes the possibility for users to post games based on [WebGL](https://en.wikipedia.org/wiki/WebGL).
 
-For the mobile application, I used [Cordova](https://cordova.apache.org/) a cross-platform tool that allowed me to inherit everything previously done in the desktop application into a mobile application. For this, I developed the necessary modules that allowed me to embed my application in the app. In addition, I added security measures to ensure that the application complied with the standards that Android and iOS require for applications to be published.
+3. Finally, I designed a mobile application using [Cordova](https://cordova.apache.org/). This cross-platform development tool allowed me to efficiently inherit the work already done on the desktop application for the mobile version. I also implemented additional security measures to ensure that the application complied with the standards required by Android and iOS for app publishing.
 
-In addition, I acquired the domain Shotshare.es through [IONOS](https://www.ionos.com/?ar=1).
+In addition, I acquired the Shotshare.es domain through [IONOS](https://www.ionos.com/?ar=1) and used [CloudFlare](https://www.cloudflare.com/es-es/) to redirect traffic to the application from a local machine. On the BackEnd, high and low-quality images are stored and displayed according to the user's context in the application.
+
+I am very proud of this project, as it is the direct result of all the knowledge and skills I acquired during my training.

@@ -12,4 +12,8 @@ tags:
   - dev
 ---
 
-At [IDboxRT](https://idboxrt.com/es/), I worked as part of the monitoring team, performing programmer tasks focused on the BackEnd of the application, using programming languages such as C#, Java. I also used tools like [Zabbix](https://www.zabbix.com/) for computer equipment monitoring. On occasion, I used programming languages such as Python, Bash, and PowerShell to create customized Zabbix monitoring. Also within the department, I belonged to the DevOps group where we carried out tasks such as Cloud environment management, domain management, firewall management, network administration.
+During my tenure at [IDboxRT](https://idboxrt.com/es/), I had the opportunity to be an integral part of the monitoring team. My primary role consisted of carrying out programming tasks focused on the BackEnd of the application, employing programming languages like C# and Java. In addition, I used tools such as [Zabbix](https://www.zabbix.com/) for computer equipment monitoring.
+
+Occasionally, I would resort to additional programming languages such as Python, Bash, and PowerShell, which allowed me to create customized monitoring in [Zabbix](https://www.zabbix.com/). Within the department, I was also a member of the DevOps group, where we carried out a variety of tasks, ranging from managing environments in the cloud, administering domains and firewalls, to network administration.
+
+This period at [IDboxRT](https://idboxrt.com/es/) was a valuable opportunity to expand my skills and knowledge in programming and monitoring systems.
