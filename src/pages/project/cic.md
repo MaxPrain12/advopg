@@ -12,4 +12,4 @@ tags:
   - dev
 ---
 
-[IDboxRT](https://idboxrt.com/es/) work in progress
+At [IDboxRT](https://idboxrt.com/es/), I worked as part of the monitoring team, performing programmer tasks focused on the BackEnd of the application, using programming languages such as C#, Java. I also used tools like [Zabbix](https://www.zabbix.com/) for computer equipment monitoring. On occasion, I used programming languages such as Python, Bash, and PowerShell to create customized Zabbix monitoring. Also within the department, I belonged to the DevOps group where we carried out tasks such as Cloud environment management, domain management, firewall management, network administration.
